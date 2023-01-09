@@ -12,3 +12,6 @@
 - git add . (összes állomány és mappa)
 ## állapotfelvétel )commit készítése 
 - git commit -m "commit message"
+ ## Git állapot
+ - git status
+ - git log
