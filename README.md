@@ -9,3 +9,6 @@
 - git init
 ## állomány hozzáadása a stage-hez
 - git add állomány neve
+- git add . (összes állomány és mappa)
+## állapotfelvétel )commit készítése 
+- git commit -m "commit message"
