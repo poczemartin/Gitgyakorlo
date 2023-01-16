@@ -29,3 +29,6 @@
 - git checkout -b újágneve
 > váltás egy másik ágra
 - git checkout ágnév
+> változások átvezetése (merge)
+- git checkout ágahovakerülnekaváltozások
+- git merge ahonnanáthozzukaváltozásokat
