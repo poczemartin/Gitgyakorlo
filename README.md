@@ -15,7 +15,7 @@
  ## Git állapot
  - git status
  - git log
-## lokális változások szinkronizálása a távoli repóba
+## lokális változások feltöltése a távoli repóba
 - git push
 ## Távoli repó másolása a lokális repóba
 - git clone "távoli repó URL címe"
@@ -32,3 +32,5 @@
 > változások átvezetése (merge)
 - git checkout ágahovakerülnekaváltozások
 - git merge ahonnanáthozzukaváltozásokat
+# Távoli repó változásainak letöltése a lokális gépre
+- git fetch origin
